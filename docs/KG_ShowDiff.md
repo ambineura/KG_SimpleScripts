@@ -9,7 +9,7 @@
 
 Надеюсь, вам будет полезно :)
 
-[установить](../../raw/main/KG_ShowDiff.user.js)
+[установить](../../../raw/main/KG_ShowDiff.user.js)
 
 ![](https://i.imgur.com/w7OLAvP.png)
 
