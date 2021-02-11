@@ -2,9 +2,9 @@
 // @name		KG show truth about fuel
 // @author		un4given (klavogonki.ru/u/#/111001)
 // @run-at		document-end
-// @version		1.2
+// @version		1.3
 // @description		Shows truth about fuel
-// @include		http*://klavogonki.ru/fuel/*
+// @include		http*://klavogonki.ru/fuel*/
 // ==/UserScript==
 
 (function(){
